@@ -4,12 +4,6 @@ A lightweight, responsive web application built for interns to track assignments
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **[View Live Application](https://kashafulhassan.github.io/Task-Portal-/)**
-
----
-
 ## ✨ Key Features
 
 * **Responsive Layout:** Optimized for desktop monitors, tablets, and mobile screens.
